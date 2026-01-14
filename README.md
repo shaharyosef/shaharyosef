@@ -1,6 +1,6 @@
 # Hi there, I'm Shahar Yosef 👋
 
-**Software Developer 
+**Software Developer**
 
 ---
 
